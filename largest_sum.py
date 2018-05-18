@@ -9,11 +9,8 @@ def large_cont_sum(arr):
 
         max_sum = max(current_sum, max_sum)
         1
-        1
-        1
 
-
-
+        
     return max_sum
 
 
